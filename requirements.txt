@@ -1,6 +1,6 @@
 feedparser
 gitpython
-heroku3
+heroku22
 psycopg2-binary
 pyrogram
 python-dotenv
